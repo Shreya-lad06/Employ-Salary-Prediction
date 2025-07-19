@@ -1,1 +1,1 @@
-# Employ-Salary-Prediction
+# Employ-Salary-Prediction-Model
