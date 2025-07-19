@@ -2,11 +2,13 @@
 
 🚀 Employee Salary Prediction Model with Interactive Streamlit Web Application
 
-       In today’s competitive job market, determining a fair and competitive salary can be a challenging task — for both employers and employees.
-       This project addresses that challenge by delivering a data-driven salary prediction system, powered by machine learning and wrapped in a sleek, interactive Streamlit web application.
+In today’s competitive job market, determining a fair and competitive salary can be a challenging task — for both employers and employees.
 
-       It’s more than just a model — it’s a smart tool that learns from real-world employee data and predicts salaries based on experience, education, skills, and job role.
-       Built entirely in Python, the system combines the rigor of machine learning with the accessibility of a web app, making salary insights available at your fingertips — no coding required.
+This project addresses that challenge by delivering a data-driven salary prediction system, powered by machine learning and wrapped in a sleek, interactive Streamlit web application.
+
+It’s more than just a model — it’s a smart tool that learns from real-world employee data and predicts salaries based on experience, education, skills, and job role.
+
+Built entirely in Python, the system combines the rigor of machine learning with the accessibility of a web app, making salary insights available at your fingertips — no coding required.
 
 
 ---
